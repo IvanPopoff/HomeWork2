@@ -14,7 +14,11 @@ public class OOCMiniHW2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-    }
+    DrivableVehicle car = new DrivableVehicle();
+    FlyingVehicle plane = new FlyingVehicle();
+    SailingVehicle sailboat = new SailingVehicle();
+
+}
+
     
 }
